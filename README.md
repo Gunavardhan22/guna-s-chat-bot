@@ -2,7 +2,7 @@
 
 A feature-rich chatbot application powered by *Google Generative AI (Gemini)* and built using *Flask, **HTML, **CSS, and **JavaScript*. The bot supports real-time messaging, dark mode, code output with copy functionality, and responsive design.
 
-![Preview](./screenshots/preview.png)
+![Preview](Gunavardhan22/guna-s-chat-bot/Screenshot 2025-01-26 233302.png)
 
 ## Features
 - *Interactive Chatbot*: Supports real-time text-based conversations.
